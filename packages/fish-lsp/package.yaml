@@ -1,6 +1,6 @@
 ---
 name: fish-lsp
-description: LSP implementation for the fish shell language
+description: LSP implementation for the fish shell language 🐠
 homepage: https://github.com/ndonfris/fish-lsp
 licenses:
   - MIT
